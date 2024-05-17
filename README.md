@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **DSA, Design Pattern, LLD, HLD**
 
-- 💬 Ask me about **Java, Springboot**
+- 💬 Ask me about **Java, Springboot, Hibernate, JPA**
 
-- 📫 How to reach me **shashyabhray@gmail.com**
+- 📫 Any Query?? **shashyabhray@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1F-jAlnbhG2cISYvECUN_G20cvb4bSmCg/view?usp=drive_link](https://drive.google.com/file/d/1F-jAlnbhG2cISYvECUN_G20cvb4bSmCg/view?usp=drive_link)
 
