@@ -5,8 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashyabh" alt="shashyabh" /></a> </p>
 
+- 🌱 I’m currently learning **DSA, Design Pattern, LLD, HLD**
+
+- 💬 Ask me about **Java, Springboot**
 
 - 📫 How to reach me **shashyabhray@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1F-jAlnbhG2cISYvECUN_G20cvb4bSmCg/view?usp=drive_link](https://drive.google.com/file/d/1F-jAlnbhG2cISYvECUN_G20cvb4bSmCg/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
